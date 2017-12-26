@@ -3,8 +3,7 @@
 
 #include "publicheader.h"
 
-#include "SqList.h"
-
+#include "outputBySqlist.h"
 
 
 #endif // ALLHEADER_H_INCLUDED

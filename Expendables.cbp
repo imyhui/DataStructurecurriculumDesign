@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="SqList.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="allheader.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="outputBySqlist.h" />
+		<Unit filename="publicheader.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

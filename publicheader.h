@@ -14,6 +14,7 @@
  #include<math.h> // floor(),ceil(),abs()
  #include<process.h> // exit()
 
+
 using namespace std;
 
 #define OK 1

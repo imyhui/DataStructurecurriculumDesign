@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1514282504 source:c:\users\13591\desktop\数据结构课设\expendables\main.cpp
+1514289372 source:c:\users\13591\desktop\数据结构课设\expendables\main.cpp
 	"allheader.h"
 
-1514281690 c:\users\13591\desktop\数据结构课设\expendables\allheader.h
+1514289341 c:\users\13591\desktop\数据结构课设\expendables\allheader.h
 	"publicheader.h"
-	"SqList.h"
+	"outputBySqlist.h"
 
-1514284416 c:\users\13591\desktop\数据结构课设\expendables\publicheader.h
+1514288793 c:\users\13591\desktop\数据结构课设\expendables\publicheader.h
 	<iostream>
 	<queue>
 	<string.h>
@@ -20,4 +20,10 @@
 	<process.h>
 
 1514286233 c:\users\13591\desktop\数据结构课设\expendables\sqlist.h
+
+1514288975 c:\users\13591\desktop\数据结构课设\expendables\sqlist.cpp
+	"publicheader.h"
+
+1514289485 c:\users\13591\desktop\数据结构课设\expendables\outputbysqlist.h
+	"SqList.h"
 
