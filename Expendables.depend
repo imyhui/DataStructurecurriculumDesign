@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1514282504 source:c:\users\13591\desktop\数据结构课设\expendables\main.cpp
+	"allheader.h"
+
+1514281690 c:\users\13591\desktop\数据结构课设\expendables\allheader.h
+	"publicheader.h"
+	"SqList.h"
+
+1514284416 c:\users\13591\desktop\数据结构课设\expendables\publicheader.h
+	<iostream>
+	<queue>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<math.h>
+	<process.h>
+
+1514286233 c:\users\13591\desktop\数据结构课设\expendables\sqlist.h
+
