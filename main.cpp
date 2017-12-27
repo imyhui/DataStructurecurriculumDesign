@@ -8,9 +8,9 @@ int main()
     while(m!=0)/*当输入为0时退出程序*/
     {
         printf("Please choose the DataStructure:\n");
-        printf("1.SqList 2、LinkList 3、数组 4、队列：");
+        printf("1.SqList 2、LinkList 3、Array 4、LinkQueue：");
         scanf("%d",&kind);
-        while(kind>=4)
+        while(kind>4)
         {
             printf("The num out of range,Please input again:");
             scanf("%d",&kind);
@@ -20,6 +20,15 @@ int main()
             case 1:
                     outputBySqlist(m);
                     break;
+             case 2:
+                    outputByLinklist(m);
+                    break;
+             case 3:
+                    outputByArray(m);
+                    break;
+             case 4:
+                    outputByQueue(m);
+                     break;
             default:
                 break;
         }

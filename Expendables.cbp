@@ -32,11 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="LinkList.h" />
+		<Unit filename="LinkQueue.h" />
 		<Unit filename="SqList.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="allheader.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="outputByArray.h" />
+		<Unit filename="outputByLinklist.h" />
+		<Unit filename="outputByQueue.h" />
 		<Unit filename="outputBySqlist.h" />
 		<Unit filename="publicheader.h" />
 		<Extensions>
