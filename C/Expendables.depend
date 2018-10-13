@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1514354363 source:c:\users\13591\desktop\数据结构课设\expendables\main.cpp
+	"allheader.h"
+
+1514354265 c:\users\13591\desktop\数据结构课设\expendables\allheader.h
+	"publicheader.h"
+	"outputBySqlist.h"
+	"outputByLinklist.h"
+	"outputByArray.h"
+	"outputByQueue.h"
+
+1514351726 c:\users\13591\desktop\数据结构课设\expendables\publicheader.h
+	<iostream>
+	<queue>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<math.h>
+	<process.h>
+	<stdarg.h>
+
+1514286233 c:\users\13591\desktop\数据结构课设\expendables\sqlist.h
+
+1514288975 c:\users\13591\desktop\数据结构课设\expendables\sqlist.cpp
+	"publicheader.h"
+
+1514345564 c:\users\13591\desktop\数据结构课设\expendables\outputbysqlist.h
+	"SqList.h"
+
+1514349163 c:\users\13591\desktop\数据结构课设\expendables\outputbylinklist.h
+	"LinkList.h"
+
+1514348328 c:\users\13591\desktop\数据结构课设\expendables\linklist.h
+
+1514353434 c:\users\13591\desktop\数据结构课设\expendables\outputbyarray.h
+
+1514352834 c:\users\13591\desktop\数据结构课设\expendables\array.h
+
+1514355294 c:\users\13591\desktop\数据结构课设\expendables\outputbyqueue.h
+	"LinkQueue.h"
+
+1514355200 c:\users\13591\desktop\数据结构课设\expendables\linkqueue.h
+
+1514354363 source:c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\main.cpp
+	"allheader.h"
+
+1514354265 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\allheader.h
+	"publicheader.h"
+	"outputBySqlist.h"
+	"outputByLinklist.h"
+	"outputByArray.h"
+	"outputByQueue.h"
+
+1514351726 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\publicheader.h
+	<iostream>
+	<queue>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<math.h>
+	<process.h>
+	<stdarg.h>
+
+1514345564 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\outputbysqlist.h
+	"SqList.h"
+
+1514286233 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\sqlist.h
+
+1514349163 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\outputbylinklist.h
+	"LinkList.h"
+
+1514348328 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\linklist.h
+
+1514353434 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\outputbyarray.h
+
+1514355294 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\outputbyqueue.h
+	"LinkQueue.h"
+
+1514355200 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\linkqueue.h
+
+1514354363 source:c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\main.cpp
+	"allheader.h"
+
+1514354265 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\allheader.h
+	"publicheader.h"
+	"outputBySqlist.h"
+	"outputByLinklist.h"
+	"outputByArray.h"
+	"outputByQueue.h"
+
+1514351726 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\publicheader.h
+	<iostream>
+	<queue>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<math.h>
+	<process.h>
+	<stdarg.h>
+
+1514345564 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\outputbysqlist.h
+	"SqList.h"
+
+1514286233 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\sqlist.h
+
+1514349163 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\outputbylinklist.h
+	"LinkList.h"
+
+1514348328 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\linklist.h
+
+1514353434 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\outputbyarray.h
+
+1514355294 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\outputbyqueue.h
+	"LinkQueue.h"
+
+1514355200 c:\users\13591\desktop\datastructurecurriculumdesign\c++原件\expendables\c\linkqueue.h
+
